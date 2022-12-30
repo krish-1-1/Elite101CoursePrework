@@ -1,2 +1,4 @@
 # Elite101CoursePrework
-Work done before classes begin
+#This repository contains my pre-work for Elite 101
+The pre-work is a python chatbox
+# This section is added to the new branch
